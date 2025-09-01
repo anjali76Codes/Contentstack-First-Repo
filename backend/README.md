@@ -1,0 +1,1 @@
+installation : npm i express mongoose multer cors dotenv nodemon jsonwebtoken bcrypt
